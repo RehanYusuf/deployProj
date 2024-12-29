@@ -1,0 +1,16 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "app to deploy",
+  "main": "n1.js",
+  "scripts": {
+    "start": "node n1.js"
+  },
+  "author": "yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
+    "express": "^4.21.2"
+  }
+}
